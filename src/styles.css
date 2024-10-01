@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+    scroll-behavior: smooth;
+}
+
+:root{
+    font-size: 125%;
+    font-family: 'Playwrite De Grund';
+
+    --font-size-1: 2.25rem;
+    --font-size-2: 1.75rem;
+    --font-size-3: 1.25rem;
+    --font-size-4: 1rem;
+    --font-size-5: 0.75rem;
+
+    --color-green-1: #2a966c00;
+    --color-green-2: #247c5a00;
+    --color-green-3: #15583f00;
+
+    --color-pink-1: #f1218200;
+
+    --color-black-1: #3b474300; 
+
+}
