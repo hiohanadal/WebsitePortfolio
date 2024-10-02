@@ -9,19 +9,19 @@
 :root{
     font-size: 125%;
     font-family: 'Playwrite De Grund';
-
+  
     --font-size-1: 2.25rem;
     --font-size-2: 1.75rem;
     --font-size-3: 1.25rem;
     --font-size-4: 1rem;
     --font-size-5: 0.75rem;
 
-    --color-green-1: #2a966c00;
-    --color-green-2: #247c5a00;
-    --color-green-3: #15583f00;
+    --color-green-1: #2a966d;
+    --color-green-2: #28664e;
+    --color-green-3: #1d4134;
 
-    --color-pink-1: #f1218200;
+    --color-pink-1: #f12182;
 
-    --color-black-1: #3b474300; 
+    --color-black-1: #282e2c; 
 
 }
